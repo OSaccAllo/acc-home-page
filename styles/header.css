@@ -1,3 +1,16 @@
 .name{
     text-align: center;
+    color: aliceblue;
+    border-bottom: 40px;
+    border-bottom-color: aqua;
+}
+
+.header{
+    text-align: center;
+    font-size: 40px;
+    background-color:black;
+    margin: 0px;
+    /* border-bottom: 40px;
+    border-bottom-color: aqua; */
+
 }
